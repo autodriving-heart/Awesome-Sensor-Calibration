@@ -46,7 +46,7 @@ PPS信号同相位的方波，这样就可以控制相机的采集频率了
 
 [[link]](https://www.zhihu.com/question/363919550/answer/1982689792)
 
-## **二、Multi-Camera-Calibration
+## 二、Multi-Camera-Calibration
 
 Multi-camera calibration using one or more calibration patterns
 
@@ -134,11 +134,11 @@ Online Multi Camera-IMU Calibration
 
 Spatiotemporal Calibration of 3D mm-Wavelength Radar-Camera Pairs
 
-## **六、Radar and LIDAR Calibration
+## 六、Radar and LiDAR Calibration
 
 Extrinsic and Temporal Calibration of Automotive Radar and 3D LiDAR
 
-## **七、Online-Calibration-Method
+## 七、Online-Calibration-Method
 
 Online extrinsic calibration based on per-sensor ego-motion using dual quaternions. 2021
 
@@ -150,7 +150,7 @@ Rggnet: Tolerance aware lidarcamera  online calibration with geometric deep lear
 
 Online Camera-LiDAR Calibration with Sensor Semantic Information. ICRA 2020.
 
-## **八、Other-Calibration-Methods
+## 八、Other-Calibration-Methods
 
 An Extrinsic Calibration Tool for Radar, Camera and Lidar
 
@@ -192,7 +192,7 @@ Target-free Extrinsic Calibration of a 3D-Lidar and an IMU
 
 An optimization-based IMU/Lidar/Camera Cocalibration method
 
-## **九、Calibration-Tools
+## 九、Calibration-Tools
 
 OpenCalib
 

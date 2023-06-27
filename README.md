@@ -4,7 +4,7 @@
 
 自动驾驶之心是国内首个自动驾驶开发者社区！这里有最全面有效的自动驾驶与AI学习路线（感知/定位/融合）和自动驾驶与AI公司内推机会！
 
-## 一、Sensor Time Synchronization
+## 一、Sensor-Time-Synchronization
 
 时间同步：
 
@@ -118,7 +118,7 @@ Online Multi Camera-IMU Calibration
 
 Spatiotemporal Calibration of 3D mm-Wavelength Radar-Camera Pairs
 
-## 五、Camera-Millimeter-Wave-Radar-Calibration
+## 五、Camera-Radar-Calibration
 
 Integrating millimeter wave radar with a monocular vision sensor for on-road obstacle detection applications
 
@@ -134,7 +134,7 @@ Online Multi Camera-IMU Calibration
 
 Spatiotemporal Calibration of 3D mm-Wavelength Radar-Camera Pairs
 
-## 六、Radar and LiDAR Calibration
+## 六、Radar-and-LiDAR-Calibration
 
 Extrinsic and Temporal Calibration of Automotive Radar and 3D LiDAR
 
@@ -230,7 +230,7 @@ Teri4Calib
 
 [[code]](https://github.com/tier4/CalibrationTools)
 
-## 十、code
+## 十、Code
 
 #### **Lidar-Camera标定**
 

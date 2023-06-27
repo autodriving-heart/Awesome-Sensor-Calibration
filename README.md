@@ -4,7 +4,7 @@
 
 自动驾驶之心是国内首个自动驾驶开发者社区！这里有最全面有效的自动驾驶与AI学习路线（感知/定位/融合）和自动驾驶与AI公司内推机会！
 
-## 一、**传感器时间同步** | Time Synchronization
+## 一、Sensor Time Synchronization
 
 时间同步：
 
@@ -46,7 +46,7 @@ PPS信号同相位的方波，这样就可以控制相机的采集频率了
 
 [[link]](https://www.zhihu.com/question/363919550/answer/1982689792)
 
-## **二、多相机标定** | Multi-Camera-Calibration
+## **二、Multi-Camera-Calibration
 
 Multi-camera calibration using one or more calibration patterns
 
@@ -62,7 +62,7 @@ Leveraging Image-based Localization for Infrastructure-based Calibration of a Mu
 
 Deep Learning for Camera Calibration and Beyond: A Survey
 
-## 三、**相机激光雷达标定** | Camera-LIDAR-Calibration
+## 三、Camera-LIDAR-Calibration
 
 An Extrinsic Calibration Tool for Radar, Camera and Lidar
 
@@ -102,7 +102,7 @@ General, Single-shot, Target-less, and Automatic LiDAR-Camera Extrinsic Calibrat
 
 [[code]](https://github.com/koide3/direct_visual_lidar_calibration)
 
-## 四、**相机IMU标定** | Camera-IMU-Calibration
+## 四、Camera-IMU-Calibration
 
 A kalman filter-based algorithm for IMU-camera calibration: Observability analysis and performance evaluation
 
@@ -118,7 +118,7 @@ Online Multi Camera-IMU Calibration
 
 Spatiotemporal Calibration of 3D mm-Wavelength Radar-Camera Pairs
 
-## 五、**相机毫米波雷达标定**  | Camera-Millimeter-Wave-Radar-Calibration
+## 五、Camera-Millimeter-Wave-Radar-Calibration
 
 Integrating millimeter wave radar with a monocular vision sensor for on-road obstacle detection applications
 
@@ -134,11 +134,11 @@ Online Multi Camera-IMU Calibration
 
 Spatiotemporal Calibration of 3D mm-Wavelength Radar-Camera Pairs
 
-## **六、毫米波与激光雷达标定** | Millimeter-Wave-and-LIDAR-Calibration
+## **六、Radar and LIDAR Calibration
 
 Extrinsic and Temporal Calibration of Automotive Radar and 3D LiDAR
 
-## **七、在线标定方法** | Online-Calibration-Method
+## **七、Online-Calibration-Method
 
 Online extrinsic calibration based on per-sensor ego-motion using dual quaternions. 2021
 
@@ -150,7 +150,7 @@ Rggnet: Tolerance aware lidarcamera  online calibration with geometric deep lear
 
 Online Camera-LiDAR Calibration with Sensor Semantic Information. ICRA 2020.
 
-## **八、其它标定方法** | Other-Calibration-Methods
+## **八、Other-Calibration-Methods
 
 An Extrinsic Calibration Tool for Radar, Camera and Lidar
 
@@ -192,7 +192,7 @@ Target-free Extrinsic Calibration of a 3D-Lidar and an IMU
 
 An optimization-based IMU/Lidar/Camera Cocalibration method
 
-## **九、标定工具** | Calibration-Tools
+## **九、Calibration-Tools
 
 OpenCalib
 
@@ -230,7 +230,7 @@ Teri4Calib
 
 [[code]](https://github.com/tier4/CalibrationTools)
 
-## 十、代码 | code
+## 十、code
 
 #### **Lidar-Camera标定**
 
